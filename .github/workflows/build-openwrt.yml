@@ -20,7 +20,7 @@ on:
         default: "false"
 
 env:
-  REPO_NAME: https://github.com/sign365E5/immortalwrt
+  REPO_NAME: sign365E5/immortalwrt
   REPO_BRANCH: master
   BUILD_VER: 23.05
   FEEDS_CONF: feeds.conf.default
